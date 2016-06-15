@@ -1,0 +1,6 @@
+c:\users\my\documents\visual studio 2015\Projects\BlandoAExamenprogaII\BlandoAExamenprogaII\bin\Debug\BlandoAExamenprogaII.exe.config
+c:\users\my\documents\visual studio 2015\Projects\BlandoAExamenprogaII\BlandoAExamenprogaII\bin\Debug\BlandoAExamenprogaII.exe
+c:\users\my\documents\visual studio 2015\Projects\BlandoAExamenprogaII\BlandoAExamenprogaII\bin\Debug\BlandoAExamenprogaII.pdb
+c:\users\my\documents\visual studio 2015\Projects\BlandoAExamenprogaII\BlandoAExamenprogaII\obj\Debug\BlandoAExamenprogaII.csprojResolveAssemblyReference.cache
+c:\users\my\documents\visual studio 2015\Projects\BlandoAExamenprogaII\BlandoAExamenprogaII\obj\Debug\BlandoAExamenprogaII.exe
+c:\users\my\documents\visual studio 2015\Projects\BlandoAExamenprogaII\BlandoAExamenprogaII\obj\Debug\BlandoAExamenprogaII.pdb
